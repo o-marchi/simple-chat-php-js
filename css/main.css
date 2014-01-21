@@ -1,0 +1,8 @@
+html,body{margin:0;padding:0}
+body{background:#5b86a8;font-family:sans-serif}
+.chat{background:#fff;border:1px solid #000;border-bottom:none;bottom:0;display:none;padding:10px;position:absolute;right:50px;width:400px}.chat input[type=text]{border:1px solid #999;padding:4px 6px;width:80%}
+.chat button{background:#444;border:none;color:#fff;cursor:pointer;padding:5px 12px;width:15%}
+.chat p{font-size:12px;margin:0;padding:2px 0 9px 2px;color:#444}
+.chat .real-chat{display:none}
+.chat .chat-box{background:#eee;border:1px solid #999;height:180px;margin:0 0 7px 2px;overflow:auto;padding:2%;width:95%}.chat .chat-box p{line-height:19px;margin:0;padding:2px 0 0;font-size:11px}
+.chat .chat-box b{font-size:12px}
